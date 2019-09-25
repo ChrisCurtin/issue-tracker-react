@@ -1,6 +1,4 @@
-This client uses the Carbon Design language and React components: https://www.carbondesignsystem.com/get-started/develop/react
-
-I'm using the npm install version.
+Uses antd design language.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
